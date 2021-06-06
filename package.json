@@ -1,6 +1,6 @@
 {
   "name": "ngjest",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "create new angular app with Jest testing framework",
   "main": "index.js",
   "repository": "https://github.com/cmxiv/ngjest",
