@@ -1,0 +1,15 @@
+{
+  "name": "ngjest",
+  "version": "1.0.0",
+  "description": "create new angular app with Jest testing framework",
+  "main": "index.js",
+  "repository": "https://github.com/cmxiv/ngjest",
+  "author": "cmxiv <cmxiv914@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@angular/cli": "^12.0.3",
+    "minimist": "^1.2.5",
+    "shelljs": "^0.8.4"
+  }
+}
