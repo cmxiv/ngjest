@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import minimist from 'minimist'
 import shell from 'shelljs'
 import addJest from './jest.js'
