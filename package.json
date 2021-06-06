@@ -11,5 +11,8 @@
     "@angular/cli": "^12.0.3",
     "minimist": "^1.2.5",
     "shelljs": "^0.8.4"
+  },
+  "bin": {
+    "ngjest": "./index.js"
   }
 }
